@@ -1,0 +1,40 @@
+
+iframe {
+   width: 100%;
+   height: 400px;
+   margin-top: 70px;
+}
+
+img {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.right {
+    text-align: right;
+}
+
+p {
+    font-size: 16px;
+}
+
+i {
+    /* margin-left: 250px; */
+    text-align: center;
+    color: #3b5998;
+}
+
+.tekst1 {
+    height: 228px;
+}
+.tekst2 {
+    height: 228px;
+}
+
+footer {
+    margin-top: 10px;
+}
+.text-center {
+    display: block!important;
+    font-size: 40px !important;
+}
